@@ -38,8 +38,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jplimaMC&show_icons=true&theme=react&bg_color=0D1117&include_all_commits=true"/>
-  <img/>
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplimaMC&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplimaMC&langs_count=10&layout=compact&theme=react&bg_color=0D1117"/>
 </div>
 
 ![Snake animation](https://github.com/jplimaMC/jplimaMC/blob/output/github-contribution-grid-snake.svg)
