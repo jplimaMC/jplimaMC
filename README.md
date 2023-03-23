@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on my master degree in Eletronic and Telecomunication Engineering
 - 🌱 I’m currently learning some ethical hacking skills
 - 👯 I’m looking to collaborate on interesting projects
-- 💬 Ask me about football, coding and music
+- 💬 Ask me about coding and eletronic music
 - 📫 How to reach me: joaolima@ua.pt
-- ⚡ Fun fact: I'm a football referee
+- ⚡ Fun fact: I'm a Techno lover
 
 <h2 align="center">🚀 Languages and Tools </h2>
 <br/>
